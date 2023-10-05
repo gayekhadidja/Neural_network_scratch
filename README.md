@@ -1,1 +1,1 @@
-# Building neural Network from scratch provide a deep understanding of haw neural networks work at their core. This allows us to discover the mathematical operations behind each layer, activation functions, loss functions and gradient descent.
+Building neural Network from scratch provide a deep understanding of haw neural networks work at their core. This allows us to discover the mathematical operations behind each layer, activation functions, loss functions and gradient descent.
